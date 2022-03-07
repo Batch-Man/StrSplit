@@ -11,4 +11,4 @@ Call StrSplit [delimiter] [string]
 Example: 
 `EXAMPLE: StrSplit ";" "%path%"`
 
-www.batch-man.com
+Article- https://batch-man.com/string-functions-by-kvc/
