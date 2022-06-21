@@ -24,3 +24,5 @@ With this in mind, we can get our needed result in just one call to the plugin:
 As you can see, we used the semicolon which separates each path variable in the string. Thus, each instance is one of the system path variables, and we get the multi-line result we were looking for. Another example of the power of plugins in Batch.
 
 Article- https://batch-man.com/string-functions-by-kvc/
+
+Video- https://www.youtube.com/watch?v=7sa5LMnbsfU
